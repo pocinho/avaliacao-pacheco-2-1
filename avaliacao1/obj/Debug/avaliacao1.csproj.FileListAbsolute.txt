@@ -1,0 +1,17 @@
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.FormAdministrador.resources
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.FormInicio.resources
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.FormUtilizador.resources
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.Properties.Resources.resources
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.csproj.GenerateResource.Cache
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\Resources\cd1.jpg
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\Resources\db_users.txt
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\Resources\lista_cds.xml
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\avaliacao1.exe.config
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\avaliacao1.exe
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\avaliacao1.pdb
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\BibliotecaUtils.dll
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\bin\Debug\BibliotecaUtils.pdb
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.exe
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\avaliacao1\obj\Debug\avaliacao1.pdb

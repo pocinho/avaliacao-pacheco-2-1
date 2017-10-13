@@ -1,0 +1,5 @@
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\BibliotecaUtils\bin\Debug\BibliotecaUtils.dll
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\BibliotecaUtils\bin\Debug\BibliotecaUtils.pdb
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\BibliotecaUtils\obj\Debug\BibliotecaUtils.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\BibliotecaUtils\obj\Debug\BibliotecaUtils.dll
+C:\Users\Paulo Pocinho\OneDrive\ATEC-CET-TPSI\CET\Trabalhos\WEB-5413-5416\2017-10-11\avaliacao-2-1-paulo-pocinho\BibliotecaUtils\obj\Debug\BibliotecaUtils.pdb

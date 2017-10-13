@@ -1,0 +1,11 @@
+<album>
+  <cd nome="cd1" titulo="titulo1" genero="genero1" autor="autor1" ano="2010" imagem="cd1.jpg" />
+  <cd nome="cd2" titulo="titulo2" genero="genero2" autor="autor2" ano="2012" imagem="cd1.jpg" />
+  <cd nome="cd3" titulo="titulo2" genero="genero3" autor="autor3" ano="2012" imagem="cd1.jpg" />
+  <cd nome="cd4" titulo="titulo3" genero="genero3" autor="autor3" ano="2013" imagem="cd1.jpg" />
+  <cd nome="cd5" titulo="titulo4" genero="genero4" autor="autor4" ano="2014" imagem="cd1.jpg" />
+  <cd nome="cd6" titulo="titulo5" genero="genero4" autor="autor4" ano="2014" imagem="cd1.jpg" />
+  <cd nome="cd7" titulo="titulo6" genero="genero4" autor="autor5" ano="2015" imagem="cd1.jpg" />
+  <cd nome="cd8" titulo="titulo7" genero="genero2" autor="autor5" ano="2016" imagem="cd1.jpg" />
+  <cd nome="cd9" titulo="titulo8" genero="genero4" autor="autor6" ano="2017" imagem="cd1.jpg" />
+</album>
